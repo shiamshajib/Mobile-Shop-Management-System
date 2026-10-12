@@ -157,7 +157,7 @@ Astock.Text + " )";
 
         private void Aid_TextChanged(object sender, EventArgs e)
         {
-
+shiam
         }
     }
 }
