@@ -12,7 +12,7 @@ namespace MshopM
 {
     public partial class Accessories : System.Windows.Forms.Form
     {
-        public Accessories()
+        public Accessories(
         {
             InitializeComponent();
         }
